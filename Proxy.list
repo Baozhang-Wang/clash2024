@@ -6,6 +6,7 @@ IP-CIDR,104.236.69.0/24,no-resolve
 # Crypto
 DOMAIN-SUFFIX,gmgn.ai
 DOMAIN-SUFFIX,warpcast.com
+DOMAIN-SUFFIX,ave.ai
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
